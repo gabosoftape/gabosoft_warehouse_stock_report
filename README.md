@@ -1,0 +1,1 @@
+gabosoft_warehouse_stock_report
